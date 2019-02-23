@@ -3,4 +3,4 @@ const server = require('sloki');
 
 server.start(() => {
     log.info('server started');
-}
+});
