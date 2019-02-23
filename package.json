@@ -5,7 +5,7 @@
   "author": "franck34 <franck.tab@gmail.com>",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node --optimize_for_size --max_old_space_size=7360 --expose_gc index.js"
   },
   "dependencies": {
     "evillogger": "1.2.2",
