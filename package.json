@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Sloki on Docker",
   "author": "franck34 <franck.tab@gmail.com>",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "node server.js"
   },
