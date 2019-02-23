@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "evillogger": "1.2.2",
-    "sloki": "^0.0.7"
+    "sloki": "sloki-project/sloki"
   }
 }
